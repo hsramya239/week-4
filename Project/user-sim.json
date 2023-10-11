@@ -1,0 +1,209 @@
+[
+{
+  "mobile": "964-123-4567",
+  "imei": "1234567890",
+  "service_provider": "Reliance jio",
+  "network_status": "No Signal",
+  "battery_status": "20%",
+  "address": "456 Elm St, new york",
+  "health_conditions": "Allergies: Pollen"
+
+},
+
+{
+  "mobile": "988-987-6543",
+  "imei": "5555555555",
+  "service_provider": "bharti Airtel",
+  "network_status": "Roaming",
+  "battery_status": "60%",
+  "address": "789 Oak Ave, london",
+  "health_conditions": "Diabetes, Hypertension"
+},
+
+{
+  "mobile": "911-777-8888",
+  "imei": "1111222233",
+  "service_provider": "vodafone",
+  "network_status": "Emergency Calls Only",
+  "battery_status": "10%",
+  "address": "321 Pine St, Remote Village",
+  "health_conditions": "Heart Condition"
+},
+
+{
+  "mobile": "888-222-3333",
+  "imei": "4444555566",
+  "service_provider": "BSNL",
+  "network_status": "Connected",
+  "battery_status": "95%",
+  "address": "567 rajaji nagar, Bangalore",
+  "health_conditions": "Asthma"
+},
+
+{
+  "mobile": "999-666-9999",
+  "imei": "3333444455",
+  "service_provider": "idea",
+  "network_status": "No Service",
+  "battery_status": "5%",
+  "address": "654 kr puram, tumkur",
+  "health_conditions": "High Blood Pressure"
+},
+
+
+{
+  "place_name": "Hyderabad",
+  "historical": [
+      {
+          "place_name": "Charminar",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "9:30 AM - 5:30 PM (Open all days)",
+          "dress_code": "Modest clothing is recommended when visiting the mosque.",
+          "entrance_fees": {
+              "Indian Citizens": "Rs. 15 per person",
+              "Foreign Tourists": "Rs. 200 per person",
+              "Children (Below 15 years)": "Free",
+              "Still Camera": "Rs. 25",
+              "Video Camera": "Rs. 100"
+          },
+          "special_instructions": "Please be respectful when visiting the mosque and follow the guidelines provided by the authorities."
+      },
+      {
+          "place_name": "Golconda Fort",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "9:00 AM - 5:30 PM (Open all days)",
+          "dress_code": "Comfortable clothing and walking shoes are recommended.",
+          "entrance_fees": {
+              "Indian Citizens": "Rs. 25 per person",
+              "Foreign Tourists": "Rs. 300 per person",
+              "Children (Below 12 years)": "Free",
+              "Still Camera": "Rs. 25",
+              "Video Camera": "Rs. 130"
+          },
+          "special_instructions": "Respect the historical heritage, and refrain from touching or damaging any structures within the fort."
+      }
+  ],
+  "adventurous": [
+      {
+          "place_name": "Ramoji Film City Adventure Park",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "10:00 AM - 6:00 PM (Closed on Mondays)",
+          "dress_code": "Comfortable clothing and sports shoes are recommended.",
+          "entrance_fees": "Rs 100 per game",
+          "special_instructions": "Follow the safety guidelines and instructions for each adventure activity."
+      },
+      {
+          "place_name": "Dhola-Ri-Dhani Adventure Zone",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "11:00 AM - 7:00 PM (Open all days)",
+          "dress_code": "Casual and comfortable clothing.",
+          "entrance_fees": "Varies by activities",
+          "special_instructions":"mobile phones are not allowed"
+      }
+  ],
+  "park": [
+      {
+          "place_name": "Lumbini Park",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "10:00 AM - 8:30 PM (Open all days)",
+          "dress_code": "Casual clothing.",
+          "entrance_fees": "Rs. 20 per person (Adults), Rs. 10 per person (Children)",
+          "special_instructions": "Enjoy the musical fountain show in the evening."
+      },
+      {
+          "place_name": "Nehru Zoological Park",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "8:00 AM - 5:00 PM (Open all days)",
+          "dress_code": "Casual clothing and comfortable footwear.",
+          "entrance_fees": "Rs. 50 per person (Adults), Rs. 20 per person (Children)"
+      }
+  ],
+  "religious": [
+      {
+          "place_name": "Birla Mandir",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "7:00 AM - 12:00 PM and 3:00 PM - 9:00 PM (Open all days)",
+          "dress_code": "Modest attire is recommended.",
+          "entrance_fees": "Free",
+          "special_instructions":"Photos are strictly restricted"
+      },
+      {
+          "place_name": "Mecca Masjid",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "Open for prayers, check local prayer timings.",
+          "dress_code": "Modest attire is required.",
+          "entrance_fees": "Free",
+          "special_instructions":"keep silence"
+      }
+  ],
+  "shopping": [
+      {
+          "place_name": "Laad Bazaar",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "10:00 AM - 11:00 PM (Open all days)",
+          "dress_code": "Casual attire.",
+          "entrance_fees": "No entrance fees.",
+          "special_instructions":"fixed rate,no bargain"
+      },
+      {
+          "place_name": "GVK One Mall",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "10:00 AM - 10:00 PM (Open all days)",
+          "dress_code": "Casual attire.",
+          "entrance_fees": "No entrance fees.",
+          "special_instructions":"no exchange,no return"
+      }
+  ],
+  "beach": [
+      {
+          "place_name": "Hussain Sagar Lake",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "Open all day, best visited during evenings.",
+          "dress_code": "Casual clothing.",
+          "entrance_fees": "No entrance fees."
+      },
+      {
+          "place_name": "Ramoji Film City Adventure Park Beach",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "open all day",
+          "dress_code": "Casual beachwear.",
+          "entrance_fees": "Included in the park entrance fee."
+      }
+  ],
+  "food places": [
+      {
+          "place_name": "Paradise Biryani",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "11:00 AM - 11:00 PM (Open all days)",
+          "dress_code": "Casual attire.",
+          "entrance_fees": "No entrance fees.",
+          "special_instructions":"serving hall available"
+      },
+      {
+          "place_name": "Hyderabadi Street Food Stalls",
+          "latitude": 17.385044,
+          "longitude": 78.486671,
+          "timings": "Evening to late night.",
+          "dress_code": "Casual attire.",
+          "entrance_fees": "Prices vary by vendor.",
+          "special_instructions":"self service only"
+        
+   
+        }
+      ]
+  }    
+        
+]
