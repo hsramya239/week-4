@@ -11,7 +11,7 @@ const avengers = {
   title: randomTitle,
   power: power[randomPowerIndex],
   city: city[randomCityIndex],
-  relatedImg: imageMapping[randomTitle] | "images/default.jpg", 
+  relatedImg: randomTitle+'.jpg'
 
 };
 data.avengers.push(avengers);
